@@ -70,14 +70,14 @@
                 alt="raisul" /> </p>
 
 <p align="left"> <a href="https://github.com/Raisul-24"><img
-                        src="https://github-profile-trophy.vercel.app/?username=raisul" alt="raisul" /></a> </p>
+                        src="https://github-profile-trophy.vercel.app/?username=Raisul-24" alt="raisul" /></a> </p>
 <br><br>
 
 <p><img align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=raisul&show_icons=true&locale=en&layout=compact"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=Raisul-24&show_icons=true&locale=en&layout=compact"
                 alt="raisul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raisul&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raisul-24&show_icons=true&locale=en"
                 alt="raisul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raisul&" alt="raisul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raisul-24&" alt="raisul" /></p>
