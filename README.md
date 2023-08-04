@@ -1,3 +1,6 @@
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raisul(111|nd Li)|https://Raisul.li)"/>](https://Raisul.li/)
+
+![visitors](https://vbr.wocr.tk/badge?page_id=Raisul111.Raisul111&color=00cf00)
 <h1 align="center">Hi 👋, I'm Raisul Islam Hridoy</h1>
         <h3 align="center">A passionate web developer from Bangladesh</h3>
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt=""> <br>
