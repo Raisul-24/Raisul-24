@@ -77,7 +77,5 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=Raisul-24&show_icons=true&locale=en&layout=compact"
                 alt="raisul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raisul-24&show_icons=false&locale=en"
-                alt="raisul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raisul-24&" alt="raisul" /></p>
