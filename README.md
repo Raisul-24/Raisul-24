@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raisul Islam Hridoy</h1>
         <h3 align="center">A passionate web developer from Bangladesh</h3>
-<img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="">
+<img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt=""> <br>
 
 
 <p >
@@ -8,14 +8,14 @@
 </p>
 <p align="left"> <a href="https://twitter.com/islam_rais70273" target="blank"><img
                         src="https://img.shields.io/twitter/follow/raisul?logo=twitter&style=for-the-badge"
-                        alt="raisul" /></a> </p>
+                        alt="raisul" /></a> </p> <br>
 
 
 - 👨‍💻 All of my projects are available at [Github:](https://raisul-24.github.io/) <br>
 
 - 📫 How to reach me ** <a href="gmail/islamraisul2001@gmail.com">islamraisul2001@gmail.com</a>** <br>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1l6O8mczepbc8czLVFLSXZd3_nhjwLBjd/view?usp=sharing">See My CV!! </a> <br>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1l6O8mczepbc8czLVFLSXZd3_nhjwLBjd/view?usp=sharing">See My CV!! </a> <br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +37,7 @@
         <a href="https://discord.gg/raisul_24" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
                         alt="k" height="30" width="40" /></a>
- </p>
+ </p> <br> <br>
 
 <h3 align="left">Languages :</h3>
 <p align="left">
