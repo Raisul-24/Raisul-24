@@ -1,6 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raisul Islam Hridoy(111|nd Li)|" title="👋 Hi there! I'm (Raisul Islam Hridoy(111|nd Li)|"/>](https://Raisul.li/)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=Raisul111.Raisul111&color=00cf00)
 <h1 align="center">Hi 👋, I'm Raisul Islam Hridoy</h1>
         <h3 align="center">A passionate web developer from Bangladesh</h3>
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt=""> <br>
@@ -40,7 +38,7 @@
         <a href="https://discord.gg/raisul_24" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
                         alt="k" height="30" width="40" /></a>
- </p> <br> <br>
+ </p> <br> 
 
 <h3 align="left">Languages :</h3>
 <p align="left">
@@ -48,7 +46,7 @@
                 alt="html5" width="40" height="40" /> </a>
         
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                        alt="css3" width="40" height="40" /> </a> 
+                        alt="css3" width="40" height="40" /> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"></a> 
                          <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                         alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/"
@@ -87,7 +85,7 @@
                                 alt="scikit_learn" width="40" height="40" /> </a> <a href="https://seaborn.pydata.org/"
                         target="_blank" rel="noreferrer"> <img
                                 src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"
-                                height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+                                height="40" /> </a> 
 </p>
 <h3 align="left">Usages Tools :</h3>
 <p align="left">
