@@ -21,29 +21,27 @@
 
                 - 📫 How to reach me ** <a href="gmail/islamraisul2001@gmail.com">islamraisul2001@gmail.com</a>** <br>
 
-                - 📄 Know about my experiences <a
-                        href="https://drive.google.com/file/d/1l6O8mczepbc8czLVFLSXZd3_nhjwLBjd/view?usp=sharing">See My
-                        CV!! </a> <br><br>
+                - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1l6O8mczepbc8czLVFLSXZd3_nhjwLBjd/viewusp=sharing">See MyCV!! </a> <br><br>
 
                 <h3 align="left">Connect with me:</h3>
                 <p align="left">
                         <a href="https://linkedin.com/in/Raisul-24" target="blank"><img align="center"
-                                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                                         alt="n" height="30" width="40" /></a>
                         <a href="https://www.kaggle.com/mdraisulislamhridoy" target="blank"><img align="center"
-                                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
                                         alt="k" height="30" width="40" /></a>
                         <a href="https://www.facebook.com/raisul.rih" target="blank"><img align="center"
-                                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                                         alt="j" height="30" width="40" /></a>
                         <a href="https://www.hackerrank.com/raisul15_3813?hr_r=1" target="blank"><img align="center"
-                                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
                                         alt="m" height="30" width="40" /></a>
                         <a href="https://codeforces.com/profile/n" target="blank"><img align="center"
-                                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
                                         alt="n" height="30" width="40" /></a>
                         <a href="https://discord.gg/raisul_24" target="blank"><img align="center"
-                                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
                                         alt="k" height="30" width="40" /></a>
                 </p> <br>
 
