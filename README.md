@@ -7,7 +7,7 @@
 <p align="right">
         <img align="right" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" alt="">
 </p>
-<p align="left"> <a href="https://twitter.com/islam_rais70273" target="blank"><img
+<p align="left"><br> <a href="https://twitter.com/islam_rais70273" target="blank"><img
                         src="https://img.shields.io/twitter/follow/raisul?logo=twitter&style=for-the-badge"
                         alt="raisul" /></a> </p> <br>
 
