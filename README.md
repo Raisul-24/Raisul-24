@@ -3,11 +3,14 @@
         <h3 align="center">A passionate web developer from Bangladesh</h3>
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt=""> <br><br>
 
-<div>
-        <p align="right">
+<div style="display:flex">
+        <div>
+                 <p align="right">
         <img align="right" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" alt="">
 </p>
-<p align="left"> <a href="https://twitter.com/islam_rais70273" target="blank"><img
+        </div>
+        <div>
+             <p align="left"> <a href="https://twitter.com/islam_rais70273" target="blank"><img
                         src="https://img.shields.io/twitter/follow/raisul?logo=twitter&style=for-the-badge"
                         alt="raisul" > </a> </p> <br>
 
@@ -40,6 +43,9 @@
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
                         alt="k" height="30" width="40" /></a>
  </p> <br>
+   
+        </div>
+       
 </div>
  
 
