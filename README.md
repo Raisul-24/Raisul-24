@@ -11,9 +11,11 @@
                 </p>
         </div>
         <div>
-                <p align="left"> <a href="https://twitter.com/islam_rais70273" target="blank"><img
+                <p align="left">
+                  <a href="https://twitter.com/islam_rais70273" target="blank"><img
                                         src="https://img.shields.io/twitter/follow/raisul?logo=twitter&style=for-the-badge"
-                                        alt="raisul"> </a> </p> <br>
+                                        alt="raisul"> </a> 
+                </p> <br>
 
 
 
