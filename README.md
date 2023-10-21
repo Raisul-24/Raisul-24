@@ -15,7 +15,7 @@
 
 - 📫 How to reach me ** <a href="gmail/islamraisul2001@gmail.com">islamraisul2001@gmail.com</a>** <br>
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1n5y5F65SkRHM4S5Li4jFzgiXJv_49VKs/view?usp=sharing](https://drive.google.com/file/d/1-8YDxxdWU6lXPfDDD6mW01pF61FAD7YO/view?usp=share_link)">See My CV!! </a> <br>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-8YDxxdWU6lXPfDDD6mW01pF61FAD7YO/view?usp=share_link">See My CV!! </a> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
