@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Raisul Islam Hridoy</h1>
+<div style="background-image: url('top-banner.png');">
+        <h1 align="center">Hi 👋, I'm Raisul Islam Hridoy</h1>
         <h3 align="center">A passionate web developer from Bangladesh</h3>
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="">
 
+</div>
 
-<p >
-        
-</p>
 <p align="left"> <a href="https://twitter.com/islam_rais70273" target="blank"><img
                         src="https://img.shields.io/twitter/follow/raisul?logo=twitter&style=for-the-badge"
                         alt="raisul" /></a> </p>
