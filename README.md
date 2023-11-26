@@ -16,6 +16,9 @@
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1cKJt4_VojCxA7DKjpLggh4Cza_erLYkx/view?usp=sharing">See My CV!!! </a> <br>
 
 <h3 align="left">Connect with me:</h3>
+<AwesomeButtonShare type="github" href="https://github.com/username">GitHub</AwesomeButtonShare>
+    <AwesomeButtonShare type="linkedin" href="https://linkedin.com/username">LinkedIn</AwesomeButtonShare>
+    <AwesomeButtonShare type="instagram" href="https://linkedin.com/username">Instagram</AwesomeButtonShare>
 <p align="left">
         <a href="https://linkedin.com/in/Raisul-24" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
