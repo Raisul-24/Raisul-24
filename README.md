@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <br />
 
-[<p align="center">[<img height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Linkedin.png">](https://www.linkedin.com/in/raisul~islam/)[<img height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Facebook.png">](https://www.facebook.com/raisul.rih)[<img height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Twitter.png">]](https://twitter.com/raisul_24) </p>
+[<p align="center">[<img height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Linkedin.png">](https://www.linkedin.com/in/raisul~islam/)[<img height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Facebook.png">](https://www.facebook.com/raisul.rih)[<img height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Twitter.png">](https://twitter.com/raisul_24)] </p>
  <br />
 <h3 align="center">Current Stats:</h3>
 <p align="center">
