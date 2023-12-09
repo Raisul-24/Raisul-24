@@ -11,7 +11,7 @@
 
 <h3 align="center">Current Stats:</h3>
 <p align="center">
-<a href="https://git.io/streak-stats"><img width="60%" src="https://streak-stats.demolab.com?user=Raisul-24&theme=neon-blurange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=494" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img width="70%" src="https://streak-stats.demolab.com?user=Raisul-24&theme=neon-blurange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=494" alt="GitHub Streak" /></a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
