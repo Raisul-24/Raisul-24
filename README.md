@@ -48,7 +48,7 @@
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to think unique and I can speak 2 languages.
 
-<div align="left">![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raisul-24&theme=shades_of_purple)</div>
+<div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raisul-24&theme=shades_of_purple" /> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raisul&label=Profile%20views&color=0e75b6&style=flat"
         alt="raisul" /> </p>
