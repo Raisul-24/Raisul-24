@@ -47,12 +47,14 @@
 ### 🔭 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to think unique and I can speak 2 languages.
+<br />
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raisul&label=Profile%20views&color=0e75b6&style=flat"
         alt="raisul" /> </p>
 
 <p align="left"> <a href="https://github.com/Raisul-24"><img
                 src="https://github-profile-trophy.vercel.app/?username=Raisul-24" alt="raisul" /></a> </p>
-<br>
+<br />
 
 
