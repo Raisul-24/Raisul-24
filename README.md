@@ -64,14 +64,16 @@
 <br />
 <br />
 
+<p align="left"> <a width="60%" href="https://github.com/Raisul-24"><img
+         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raisul-24&theme=blue_green" /></a> </p>
+<p align="right"> <a width="30%" href="https://github.com/Raisul-24"><img
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raisul-24&theme=blue_green" /></a> </p>
+<br />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raisul&label=Profile%20views&color=0e75b6&style=flat"
       alt="raisul" /> </p>
 
 <p align="left"> <a href="https://github.com/Raisul-24"><img
          src="https://github-profile-trophy.vercel.app/?username=Raisul-24" alt="raisul" /></a> </p>
 <br />
-<p align="left"> <a href="https://github.com/Raisul-24"><img
-         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raisul-24&theme=blue_green" /></a> </p>
-<p align="right"> <a href="https://github.com/Raisul-24"><img
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raisul-24&theme=blue_green" /></a> </p>
-<br />
+
