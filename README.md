@@ -65,8 +65,7 @@
 <br />
 
 <div style={{
-  display: 'flex',
-  flexDirection: 'row-reverse',
+  display: 'flex'
 }}>
   <p style={{ textAlign: 'left', width: '50%' }}>
     <a href="https://github.com/Raisul-24">
