@@ -10,12 +10,16 @@
    href="https://drive.google.com/file/d/1vyZr2Nhwzdq0kwNWZG0djV8GItLmO2TE/view?usp=sharing">See My CV!!! </a> <br>
 
 <h3 align="left">Connect with me:</h3>
-## :mailbox: Reach me out
 <br />
 
 [<p align="center">[<img height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Linkedin.png">](https://www.linkedin.com/in/raisul~islam/)[<img height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Facebook.png">](https://www.facebook.com/raisul.rih)[<img height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Twitter.png">] </p>](https://twitter.com/raisul_24)
+ <br />
 
-   <br />
+<h3 align="center">Current Stats:</h3>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Raisul-24&theme=neon-blurange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=494" alt="GitHub Streak" /></a> />
+</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
