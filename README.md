@@ -40,8 +40,14 @@
 <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/express.png"/>
 <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/mongo.png"/>
 </p><br/>
-  
+
+<h2 align="center">Current overview</h2>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raisul-24&theme=shades_of_purple)
+
+### 🌱 I’m exploring - New Technologies for web. 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To help people learn web development. 
+### ⚡ Fun fact - I love to think unique and I can speak 2 languages.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raisul&label=Profile%20views&color=0e75b6&style=flat"
         alt="raisul" /> </p>
