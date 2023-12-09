@@ -64,10 +64,10 @@
 <br />
 <br />
 
-<div style="display: flex; flex-direction: row-reverse;">
-   <p align="left"> <a style="width: 50%;" href="https://github.com/Raisul-24"><img
+<div width="100%" style="display: flex; flex-direction: row-reverse;">
+   <p align="left"> <a href="https://github.com/Raisul-24"><img width="60%" 
          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raisul-24&theme=blue_green" alt="Profile Details"></a> </p>
-   <p align="right"> <a style="width: 30%;" href="https://github.com/Raisul-24"><img
+   <p align="right"> <a href="https://github.com/Raisul-24"><img width="35%" 
          src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raisul-24&theme=blue_green" alt="Stats"></a> </p>
 </div>
 
