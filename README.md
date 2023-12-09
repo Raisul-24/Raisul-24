@@ -53,6 +53,7 @@
 - ⚡ Fun fact - I love to think unique and I can speak 2 languages.
 <br />
 <br />
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raisul&label=Profile%20views&color=0e75b6&style=flat"
         alt="raisul" /> </p>
