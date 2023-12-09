@@ -67,10 +67,10 @@
 <div width="100%" style="display: flex; justify-content: center; align-items: center; ">
    <div width="60%"><p> <a href="https://github.com/Raisul-24"><img  
          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raisul-24&theme=blue_green" alt="Profile Details"></a> </p></div>
+
+</div>
    <div width="35%" ><p> <a href="https://github.com/Raisul-24"><img 
          src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raisul-24&theme=blue_green" alt="Stats"></a> </p></div>
-</div>
-
 
 <br />
 
