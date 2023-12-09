@@ -64,7 +64,7 @@
 <br />
 <br />
 
-<div width="100%" style="display: flex; flex-direction: row-reverse;">
+<div width="100%" style="display: flex; flex-direction: row-reverse; justify-content: center; align-items: center; ">
    <p align="left"> <a href="https://github.com/Raisul-24"><img width="60%" 
          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raisul-24&theme=blue_green" alt="Profile Details"></a> </p>
    <p align="right"> <a href="https://github.com/Raisul-24"><img width="35%" 
