@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raisul Islam Hridoy</h1>
+![image](https://github.com/Raisul-24/Raisul-24/assets/103335898/b7e6d22c-d6d7-4a90-997d-6f205da63563)<h1 align="center">Hi 👋, I'm Raisul Islam Hridoy</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <a href="https://www.linkedin.com/in/raisul~islam">
    <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/Banner/banner.gif" alt="">
@@ -42,12 +42,13 @@
 </p><br/>
 
 <h2 align="center">Current overview</h2>
-<div align="left">![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raisul-24&theme=shades_of_purple)</div>
 
-### 🌱 I’m exploring - New Technologies for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
+### ✨ I’m exploring - New Technologies for web. 
+### 🔭 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to think unique and I can speak 2 languages.
+
+<div align="left">![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raisul-24&theme=shades_of_purple)</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raisul&label=Profile%20views&color=0e75b6&style=flat"
         alt="raisul" /> </p>
