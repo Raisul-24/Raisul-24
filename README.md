@@ -65,7 +65,7 @@
 <br />
 
 <div width="100%" style="display: flex; justify-content: center; align-items: center; ">
- <p> <a href="https://github.com/Raisul-24"><img  
+ <p> <a href="https://github.com/Raisul-24"><img  width="100%"
          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raisul-24&theme=blue_green" alt="Profile Details"></a> </p>
 
 </div>
