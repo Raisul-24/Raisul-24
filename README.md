@@ -42,13 +42,11 @@
 </p><br/>
 
 <h2 align="center">Current overview</h2>
-
+<div align="left"><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raisul-24&theme=shades_of_purple" /> </div>
 ### ✨ I’m exploring - New Technologies for web. 
 ### 🔭 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to think unique and I can speak 2 languages.
-
-<div align="right"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raisul-24&theme=shades_of_purple" /> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raisul&label=Profile%20views&color=0e75b6&style=flat"
         alt="raisul" /> </p>
