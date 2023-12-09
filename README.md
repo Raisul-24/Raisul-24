@@ -1,27 +1,18 @@
-
 <h1 align="center">Hi 👋, I'm Raisul Islam Hridoy</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="">
+<a href="https://www.linkedin.com/in/raisul~islam">
+   <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/Banner/banner.gif" alt="">
+</a>
 
+- 📫 How to reach me <a href="gmail/islamraisul2001@gmail.com">islamraisul2001@gmail.com</a>** <br>
 
-<p align="left"> <a href="https://twitter.com/islam_rais70273" target="blank"><img
-                        src="https://img.shields.io/twitter/follow/raisul?logo=twitter&style=for-the-badge"
-                        alt="raisul" /></a> </p>
-
-
-- 👨‍💻 All of my projects are available at [Github:](https://raisul-24.github.io/) <br>
-
-- 📫 How to reach me ** <a href="gmail/islamraisul2001@gmail.com">islamraisul2001@gmail.com</a>** <br>
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1vyZr2Nhwzdq0kwNWZG0djV8GItLmO2TE/view?usp=sharing">See My CV!!! </a> <br>
+- 📄 Know about my experiences <a
+   href="https://drive.google.com/file/d/1vyZr2Nhwzdq0kwNWZG0djV8GItLmO2TE/view?usp=sharing">See My CV!!! </a> <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<br />
-
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
-
-<br />
+   <br />
+   [<p align="center"><img height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Linkedin.png">](https://www.linkedin.com/in/raisul~islam)[<img height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Facebook.png">](https://www.facebook.com/raisul.rih)[<img height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Twitter.png"> </p>](https://twitter.com/raisul_24)
+   <br />
  </p>
 
 <h3 align="center">Languages and Tools:</h3>
