@@ -64,20 +64,13 @@
 <br />
 <br />
 
-<div style={{
-  display: 'flex'
-}}>
-  <p style={{ textAlign: 'left', width: '50%' }}>
-    <a href="https://github.com/Raisul-24">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raisul-24&theme=blue_green" />
-    </a>
-  </p>
-  <p style={{ textAlign: 'right', width: '30%' }}>
-    <a href="https://github.com/Raisul-24">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raisul-24&theme=blue_green" />
-    </a>
-  </p>
+<div style="display: flex; flex-direction: row-reverse;">
+   <p align="left"> <a style="width: 50%;" href="https://github.com/Raisul-24"><img
+         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raisul-24&theme=blue_green" alt="Profile Details"></a> </p>
+   <p align="right"> <a style="width: 30%;" href="https://github.com/Raisul-24"><img
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raisul-24&theme=blue_green" alt="Stats"></a> </p>
 </div>
+
 
 <br />
 
