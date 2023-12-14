@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raisul Islam Hridoy</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <a href="https://www.linkedin.com/in/raisul~islam">
-   <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/Banner/raisul.gif" alt="">
+   <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/Banner/raisul-24.gif" alt="">
 </a>
 
 - 📫 How to reach me <a href="gmail/islamraisul2001@gmail.com">islamraisul2001@gmail.com</a> <br>
