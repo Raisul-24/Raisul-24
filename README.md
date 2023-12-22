@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raisul Islam Hridoy</h1>
+<h1 align="center">Hi 👋 ![image](https://github.com/Raisul-24/Raisul-24/assets/103335898/9bbe0cdc-348b-4db0-af76-2eea133118db)
+ , I'm Raisul Islam Hridoy</h1>
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
 <a href="https://www.linkedin.com/in/raisul~islam">
    <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/Banner/raisul-24.gif" alt="">
