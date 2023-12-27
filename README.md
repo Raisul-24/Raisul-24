@@ -54,11 +54,11 @@
 </div>
 
 <br />
-- ✨ I’m exploring - New Technologies for Wev Development.
+- ✨ I’m exploring - New Technologies for Web Development.
 
-- 🔭 I’m looking - To collaborate on open source projects.
+- 🔭 I’m looking - To collaborate on open-source projects.
 
-- 🤔 I’m trying - To make myself more confident for web development.
+- 🤔 I’m trying - To make myself more confident in web development.
 
 - ⚡ Fun fact - I love to think unique and I can speak 2 languages.
 <br />
