@@ -20,7 +20,7 @@
 <br />
 
 [<p align="center">[<img height="75"
-      src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Linkedin.png">](https://www.linkedin.com/in/raisul~islam/)[<img
+      src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Linkedin.png">](https://www.linkedin.com/in/raisul~islam)[<img
       height="75"
       src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Facebook.png">](https://www.facebook.com/raisul.rih)[<img
       height="75" src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Twitter.png"> </p>
