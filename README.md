@@ -9,7 +9,7 @@
 - 📞 How to contact with me <a href="+880 1521-706432">+880 1521-706432</a> <br>
 
 - 📄 Know about my experiences <a
-   href="https://drive.google.com/file/d/1WiEtogLNAda4ahhoBInrwdgGn13uy0Jj/view?usp=sharing">See My Resume!!</a> <br>
+   href="https://drive.google.com/file/d/1WiEtogLNAda4ahhoBInrwdgGn13uy0Jj/view?usp=sharing">See My Resume!</a> <br>
 
 <h3 align="center">Current Stats:</h3>
 <p align="center">
