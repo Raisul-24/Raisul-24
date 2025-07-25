@@ -1,79 +1,103 @@
-<h1 align="center">Hi 👋, I'm Raisul Islam Hridoy</h1>
-<h3 align="center">🚀 Passionate Web Developer from Bangladesh 🇧🇩</h3>
+<h1 align="center">Hey there 👋, I'm Raisul Islam Hridoy</h1>
+<h3 align="center">🚀 MERN Stack Developer | Passionate Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raisul~islam">
-    <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/Banner/raisul-24.gif" alt="Raisul's Banner" width="100%"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/Banner/raisul-24.gif" width="100%" alt="Raisul Banner"/>
+</p>
+
+<p align="center">
+  <a href="mailto:islamraisul.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raisul~islam/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/raisul.rih"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://twitter.com/raisul_24"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📫 Contact Me
+### 💻 About Me
 
-- 📧 Email: [islamraisul.cse@gmail.com](mailto:islamraisul.cse@gmail.com)  
-- 📞 Phone: [+8801521-706432](tel:+8801521706432)  
+- 🔭 I’m currently working as a **Full-Stack Web Developer** using the MERN stack.
+- 🎓 Pursuing MSc in Computing at **Rajshahi University of Engineering & Technology (RUET)**.
+- 🎓 BSc in CSE from **Daffodil International University (DIU)**.
+- 💡 Exploring **AI integration**, **Next.js 14**, and **Firebase Auth** in real-world apps.
+- 💬 Ask me about **React, Node, MongoDB, Firebase, REST APIs**, or **project deployment**.
 - 📄 [View My Resume](https://drive.google.com/file/d/1YNZLa7fIuRJ9UPpsbt_jNpqj3RoBHKpk/view?usp=sharing)
 
 ---
 
-### 📊 GitHub Stats & Streaks
+---
 
+### 🔧 Tech Stack (Visual)
+
+#### 👨‍💻 Frontend
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Raisul-24&theme=neon-blurange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui" />
 </p>
 
+#### 🔗 Backend & Database
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raisul-24&theme=blue_green" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
+#### 💳 Payment & Auth
 <p align="center">
-  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raisul-24&theme=shades_of_purple" />
+  <img src="https://skillicons.dev/icons?i=jwt" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSLCommerz-0177B5?style=for-the-badge&logo=ssl&logoColor=white" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=raisul-24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/Raisul-24">
-    <img src="https://github-profile-trophy.vercel.app/?username=Raisul-24&theme=dracula&column=7" alt="Trophies" />
-  </a>
+#### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,yarn,vercel,netlify" />
 </p>
 
 ---
 
-### 🔧 Tech Stack
-
+### 🧠 Problem-Solving
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/HTML.png" alt="HTML" width="50"/>
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/css.png" alt="CSS" width="50"/>
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/JavaScript.png" alt="JavaScript" width="50"/>
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/react.png" alt="React" width="50"/>
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/tailwind.png" alt="Tailwind CSS" width="50"/>
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/Bootsrap.png" alt="Bootstrap" width="50"/>
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/node.png" alt="Node.js" width="50"/>
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/express.png" alt="Express.js" width="50"/>
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/mongo.png" alt="MongoDB" width="50"/>
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/firebase.png" alt="Firebase" width="50"/>
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/python.png" alt="Python" width="50"/>
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/c.png" alt="C" width="50"/>
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/icons/cpp.png" alt="C++" width="50"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beecrowd-003A73?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <br />
+  <b>400+ problems solved across competitive platforms</b>
 </p>
 
 ---
 
-### 🌱 Current Overview
+### 🤝 Interpersonal Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Leadership-007BFF?style=for-the-badge&logo=trustpilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Communication-FF5722?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teamwork-9C27B0?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time%20Management-4CAF50?style=for-the-badge&logo=clockify&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🤝 I’m open to **collaborating on open-source projects**
-- 🌱 I’m learning **new technologies and performance optimization techniques**
-- 💡 I believe in **creativity, clean code, and impactful design**
-- ⚡ Fun Fact: I speak **2 languages** and love learning new skills daily
 
 ---
 
-### 🤝 Connect with Me
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raisul-24&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Raisul-24&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raisul-24&theme=github_dark" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raisul-24&theme=github_dark" width="45%" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+
+- 📘 **Next.js 14 & App Router**
+- ⚡ **Performance Optimization in React**
+- 🎯 **AI + Web Integration**
+
+---
+
+### 🌍 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raisul~islam">
@@ -89,4 +113,14 @@
 
 ---
 
-> ✨ _Thank you for visiting my GitHub profile! Feel free to connect and collaborate._ 🚀
+### ⚡ Fun Fact
+
+> I think uniquely, speak 2 languages fluently, and can turn your idea into a real app ✨
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+<p align="center"><i>Thanks for visiting my GitHub profile! 🚀</i></p>
