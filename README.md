@@ -19,7 +19,7 @@
 - 🔭 I’m currently working as a **Full-Stack Web Developer** using the MERN stack.
 - 🎓 Pursuing MSc in Computing at **Rajshahi University of Engineering & Technology (RUET)**.
 - 🎓 BSc in CSE from **Daffodil International University (DIU)**.
-- 💡 Exploring **AI integration**, **Next.js 14**, and **Firebase Auth** in real-world apps.
+- 💡 Exploring **AI integration**, **Next.js 14**, and *modern web architecture** in real-world apps.
 - 💬 Ask me about **React, Node, MongoDB, Firebase, REST APIs**, or **project deployment**.
 - 📄 [View My Resume](https://drive.google.com/file/d/1YNZLa7fIuRJ9UPpsbt_jNpqj3RoBHKpk/view?usp=sharing)
 
