@@ -16,14 +16,12 @@
 
 ### 💻 About Me
 
-- 🔭 I’m currently working as a **Full-Stack Web Developer** using the MERN stack.
-- 🎓 Pursuing MSc in Computing at **Rajshahi University of Engineering & Technology (RUET)**.
-- 🎓 BSc in CSE from **Daffodil International University (DIU)**.
-- 💡 Exploring **AI integration**, **Next.js 14**, and *modern web architecture** in real-world apps.
-- 💬 Ask me about **React, Node, MongoDB, Firebase, REST APIs**, or **project deployment**.
+- 🔭 I’m currently working as a **Full-Stack Web Developer** using the MERN stack.  
+- 🎓 Pursuing MSc in Computing at **Rajshahi University of Engineering & Technology (RUET)**.  
+- 🎓 BSc in CSE from **Daffodil International University (DIU)**.  
+- 💡 Exploring **AI integration**, **Next.js 14**, and **modern web architecture** in real-world apps.  
+- 💬 Ask me about **React, Node, MongoDB, Firebase, REST APIs**, or **project deployment**.  
 - 📄 [View My Resume](https://drive.google.com/file/d/1YNZLa7fIuRJ9UPpsbt_jNpqj3RoBHKpk/view?usp=sharing)
-
----
 
 ---
 
@@ -72,7 +70,6 @@
   <img src="https://img.shields.io/badge/Time%20Management-4CAF50?style=for-the-badge&logo=clockify&logoColor=white" />
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -116,6 +113,24 @@
 ### ⚡ Fun Fact
 
 > I think uniquely, speak 2 languages fluently, and can turn your idea into a real app ✨
+
+---
+
+<div align="center">
+  <a href="https://github.com/Raisul-24">
+    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raisul-24&theme=blue_green" alt="Profile Details" />
+  </a>
+</div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=raisul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/Raisul-24">
+    <img src="https://github-profile-trophy.vercel.app/?username=Raisul-24" alt="GitHub Trophy" />
+  </a>
+</p>
 
 ---
 
