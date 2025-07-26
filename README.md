@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Beecrowd-003A73?style=for-the-badge&logo=codeforces&logoColor=white" />
   <br />
-  <b>400+ problems solved across competitive platforms</b>
+  <b>400+ problems solved across competitive platforms.</b>
 </p>
 
 ---
