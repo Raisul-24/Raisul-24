@@ -14,7 +14,7 @@
 
 ---
 
-### 💻 About Me
+### 💻 About Me:
 
 - 🔭 I’m currently working as a **Full-Stack Web Developer** using the MERN stack.  
 - 🎓 Pursuing MSc in Computing at **Rajshahi University of Engineering & Technology (RUET)**.  
