@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Raisul Islam Hridoy</h1>
+<h1 align="center">Hey there!👋, I'm Raisul Islam Hridoy</h1>
 <h3 align="center">🚀 MERN Stack Developer | Passionate Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
