@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Passionate Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/Banner/raisul-24.gif" width="100%" alt="Raisul_Banner"/>
+  <img src="https://raw.githubusercontent.com/Raisul-24/Raisul-24/main/Banner/raisul-24.gif" width="100%" alt="Raisul Banner"/>
 </p>
 
 <p align="center">
